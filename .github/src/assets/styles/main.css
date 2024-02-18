@@ -1,0 +1,7 @@
+*, :root {
+  margin: 0;
+  padding: 0;
+  outline: none;
+  font-family: 'Poppis', sans-serif;
+  box-sizing: border-box;
+}
